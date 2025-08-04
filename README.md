@@ -1,15 +1,15 @@
-# 📰 Fake News Detection in Arabic News Articles  
+# Fake News Detection in Arabic News Articles  
 
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on detecting fake news in Arabic news articles using Natural Language Processing (NLP) and machine learning techniques. We explored both classical and deep learning models to classify news content as either *real* or *fake*.
 
 ---
 
-## 🧠 Objectives
+## Objectives
 
 - Build a complete Arabic NLP preprocessing pipeline.
 - Evaluate classical ML models and BERT for fake news classification.
@@ -18,7 +18,7 @@ This project focuses on detecting fake news in Arabic news articles using Natura
 
 ---
 
-## 🗂️ Dataset Description
+## Dataset Description
 
 - **Sources:** Multiple Arabic news platforms.
 - **Language:** Modern Standard Arabic (MSA).
@@ -27,7 +27,7 @@ This project focuses on detecting fake news in Arabic news articles using Natura
 
 ---
 
-## 📊 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 - **Imbalance:** Notable skew toward real news.
 - **Temporal patterns:** Most content from 2024.
@@ -36,7 +36,7 @@ This project focuses on detecting fake news in Arabic news articles using Natura
 
 ---
 
-## ⚙️ Preprocessing Pipeline
+## Preprocessing Pipeline
 
 1. **Text Cleaning:**
    - Remove URLs, HTML, emojis, diacritics.
@@ -56,7 +56,7 @@ This project focuses on detecting fake news in Arabic news articles using Natura
 
 ---
 
-## 🧪 Models & Techniques
+## Models & Techniques
 
 | Model               | Type               | Notes |
 |--------------------|--------------------|-------|
@@ -68,7 +68,7 @@ This project focuses on detecting fake news in Arabic news articles using Natura
 
 ---
 
-## 📈 Performance Metrics
+##  Performance Metrics
 
 | Model             | Accuracy | F1-Score | Precision | Recall | Training Time |
 |------------------|----------|----------|-----------|--------|----------------|
@@ -82,7 +82,7 @@ This project focuses on detecting fake news in Arabic news articles using Natura
 
 ---
 
-## 📉 Evaluation Highlights
+## Evaluation Highlights
 
 - **AUC-ROC:** High values indicate good class separability.
 - **N-gram Insights:** Real news uses formal, named entities; fake news has sensational and emotional language.
@@ -90,7 +90,7 @@ This project focuses on detecting fake news in Arabic news articles using Natura
 
 ---
 
-## 🧩 Challenges
+## Challenges
 
 - Imbalanced dataset.
 - Arabic morphology and syntax complexity.
@@ -98,7 +98,7 @@ This project focuses on detecting fake news in Arabic news articles using Natura
 
 ---
 
-## 🚀 Future Work
+## Future Work
 
 ### Short-term
 - Expand fake news samples.
@@ -113,7 +113,7 @@ This project focuses on detecting fake news in Arabic news articles using Natura
 
 ---
 
-## 🌐 Real-World Applications
+## Real-World Applications
 
 - News platform integration.
 - Government misinformation detection tools.
@@ -121,13 +121,10 @@ This project focuses on detecting fake news in Arabic news articles using Natura
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠Technologies Used
 
 - Python, Scikit-learn, XGBoost, NLTK, Stanza, Hugging Face Transformers  
 - Jupyter Notebook, Google Colab  
 
 ---
 
-## 🙏 Acknowledgments
-
-Special thanks to **Dr. Tareq AlTalmas** for his guidance and support throughout this project.s).
