@@ -1,12 +1,5 @@
 # 📰 Fake News Detection in Arabic News Articles  
-**NLP Final Project – Group B**  
-**Date:** July 2025  
 
-## 👩‍💻 Team Members
-- Hebatallah AbuHarb (220210448)  
-- Shahd Althalathini (220210527)  
-- Zahraa Aldeirawi (220221428)  
-**Supervised by:** Dr. Tareq AlTalmas
 
 ---
 
